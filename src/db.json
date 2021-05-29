@@ -1,0 +1,36 @@
+{
+    "books": [
+        {"title": "Л.Н.Толстой “Война и мир”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Бредбери “Вино из одуванчиков”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "К.Джон “Подсознание может все”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "М.Мэнсон “Тонкое искусство пофигизма”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Сунь-Цзы “Искусство войны”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Кийосаки “Богатый папа, бедный папа”", "desciption": "", "sphere": "", "favorites": false}
+    ],
+    "films": [
+        {"title": "Л.Н.Толстой “Война и мир”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Бредбери “Вино из одуванчиков”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "К.Джон “Подсознание может все”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "М.Мэнсон “Тонкое искусство пофигизма”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Кийосаки “Богатый папа, бедный папа”", "desciption": "", "sphere": "", "favorites": false}
+    ],
+    "travels": [
+        {"title": "Л.Н.Толстой “Война и мир”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Бредбери “Вино из одуванчиков”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "К.Джон “Подсознание может все”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Сунь-Цзы “Искусство войны”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Кийосаки “Богатый папа, бедный папа”", "desciption": "", "sphere": "", "favorites": false}
+    ],
+    "desires": [
+        {"title": "К.Джон “Подсознание может все”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "М.Мэнсон “Тонкое искусство пофигизма”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Сунь-Цзы “Искусство войны”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "А.Свияш “Улыбнись пока не поздно”", "desciption": "", "sphere": "", "favorites": false},
+        {"title": "Р.Кийосаки “Богатый папа, бедный папа”", "desciption": "", "sphere": "", "favorites": false}
+    ]
+}
